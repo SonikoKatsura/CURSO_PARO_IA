@@ -1,6 +1,0 @@
-# Esto es un ejemplo corto de lo nos podemos encontrar por ahi
-# Pedido planchas de acero
-# Descripción: las columnas son por orden: nº de planchas, grosor, largo, ancho , las medidas en m.
-5;0.015;5;2
-10;0.020;12;6
-2;0.030;20;10
